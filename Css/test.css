@@ -1,0 +1,22 @@
+body{
+  background-color: darkslategrey;
+}
+
+h1{
+color: salmon;
+}
+h2{
+color: green;
+}
+.big{                         //declare: all the elements with class big, should have font size...
+font-size: 80px;
+}
+.uppercase{
+text-transform:uppercase;
+}
+.uppercase.big{
+color: navy;
+}
+h1 span{
+color: salmon;
+}
